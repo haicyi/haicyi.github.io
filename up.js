@@ -27,4 +27,5 @@ customElements.define('item',Hanzi);
 customElements.define('hanzi',Hanzi);
 customElements.define('word',Hanzi);
 customElements.define('phiou',Hanzi);
-customElements.define('zi',Hanzi)
+customElements.define('zi',Hanzi);
+customElements.define('ci',Hanzi);

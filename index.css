@@ -192,7 +192,7 @@ word div:nth-child(3){
     font-size: small;
     color: #555;
 }
-/* 白读标签 */
+/* 辞典标签 */
 phiou{
     background-color: beige;
     font-size: 0.8rem;
@@ -200,8 +200,19 @@ phiou{
     font-weight: bold;
     padding: 2px;
     border:1px solid azure;
+    margin-right: 2rem;
 }
 /* 电子书专题 */
+/* 汉字 */
+ci{
+    background-color: beige;
+    font-size: 0.8rem;
+    color: #af4e4c;
+    font-weight: bold;
+    padding: 2px;
+    border:1px solid azure;
+    margin: 1rem;
+}
 /* 纸制效果 */
 .ebook{
     background-color: bisque;
